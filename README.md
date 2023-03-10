@@ -1,2 +1,2 @@
-# SW_test_1
-Test Repository
+# SW_테스트
+202002437컴퓨터공학부이산입니다.
