@@ -1,7 +1,8 @@
-Student num : 202002437
-HomeTown :Gyeonggi-do
-Name : Lee San
-Gender : Male
-Age : 23
-Job : Student
+Student num : 202002437 // 학번
+HomeTown :Gyeonggi-do // 사는곳
+Name : Lee San // 이름 
+Gender : Male // 성별
+Age : 23 // 나이
+Job : Student //직업
+//가독성을 위해 한문단이 아닌 전체적으로 문단을 나눠서 수
 
