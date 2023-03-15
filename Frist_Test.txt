@@ -1,1 +1,5 @@
-Lee San, 202002437, ComPuter Science
+Name : Lee San
+Gender : Male
+Age : 23
+Job : Student
+
